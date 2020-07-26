@@ -31,7 +31,6 @@
 
 body {
     margin: 0px;
-    max-height: 100vh;
     font-family: Calibri, sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
